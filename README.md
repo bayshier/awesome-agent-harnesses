@@ -42,6 +42,7 @@ The five texts that define the discipline, in order:
 - [LangGraph](https://github.com/langchain-ai/langgraph) — 40.3k★ — graph/checkpointing niche ("resilient agents"); v1.x line.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — 28.9k★ — the production successor of swarm.
 - [openai/swarm](https://github.com/openai/swarm) — 21.9k★ — educational, handoffs pattern; not production.
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) — 933★ — source-available QA harness (FSL-1.1-ALv2) for natural-language web and mobile tests with run memory and self-healing.
 
 ## 🤖 Coding Agents (harnesses in the wild)
 
