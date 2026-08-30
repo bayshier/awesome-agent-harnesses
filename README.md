@@ -32,6 +32,7 @@ The five texts that define the discipline, in order:
 ## ⚙️ Platforms & Frameworks
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — **188k★** — "Everything is a Plugin" (Node/Cordis). 186k stars in ten days; the platform whose plugin ecosystem spawned its own awesome lists.
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — **638★** — local-first, self-hosted agent runtime with persistent sessions, sandboxed tool execution, MCP, memory, credentials, approvals, audit, and replay.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — **242k★** — agent-harness performance optimization: skills, instincts, memory, continuous-learning-v2.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — 17.9k★ — self-improving RL agent.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) — 25.9k★ — Rust coding-agent harness/TUI.
