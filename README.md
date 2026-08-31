@@ -35,6 +35,7 @@ The five texts that define the discipline, in order:
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — **242k★** — agent-harness performance optimization: skills, instincts, memory, continuous-learning-v2.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — 17.9k★ — self-improving RL agent.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) — 25.9k★ — Rust coding-agent harness/TUI.
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — 639★ — local-first, self-hosted runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.
 - [yc-software/qm](https://github.com/yc-software/qm) — 14.1k★ — multiplayer harness: per-person/per-room scoped memory, files, keychain, permissions.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) — 12.8k★
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) — 11.8k★ — universal provider proxy for Codex/Claude Code.
