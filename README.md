@@ -80,6 +80,7 @@ From light (process) to heavy (microVM, cloud):
 
 ## 🐜 Multi-Agent Coordination
 
+- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) — local-first desktop workforce where a Commander plans work and coordinates specialist agents through one chat.
 - Anthropic's multi-agent research system ([post](https://www.anthropic.com/engineering/built-multi-agent-research-system)) — orchestrator-worker in production: **+90.2% over single-agent, ~15× tokens; token budget explains 80% of outcome variance.**
 - [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) — 920★ — captain-led teams, dependency-gated task DAG with atomic claiming, durable state, cold-restart.
 - Claude Code subagents ([docs](https://code.claude.com/docs/en/sub-agents)) — tool allowlists, model routing per agent, worktree isolation, 3-layer depth, cap 20 concurrent.
