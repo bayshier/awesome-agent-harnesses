@@ -60,6 +60,7 @@ The five texts that define the discipline, in order:
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — 11.9k★ — the plugin registry layer of the DSH ecosystem.
 - [anthropics/skills → skill-creator](https://github.com/anthropics/skills) — eval-gated self-editing loop: baseline vs with_skill, blind A/B via independent grader agents.
 - [vivekhaldar/seed](https://github.com/vivekhaldar/seed) — 91★ — minimal self-modifying harness; **the only git-versioned self/** (rollback = git revert).
+- [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) — 906★ — the same versioning idea on the serving side rather than inside one local harness: an OpenAI/Anthropic-compatible endpoint (`/v1/chat/completions`, `/v1/messages`) returns a receipt header per request, a later report attaches a score and/or feedback to those receipts, and a recipe batches eligible records into a candidate — either a harness tree of rules, skills, prompts, config and extensions, or model weights. The harness recipe runs current vs candidate on the configured tasks and publishes only the winner, as a versioned, rollback-capable artifact the live endpoint picks up without a restart. Apache-2.0, `pip install reef-infra`.
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) — 20k★ — personal-brand skill collection.
 
 ## 🏰 Sandboxes & Isolation
