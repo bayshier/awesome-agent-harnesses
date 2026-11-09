@@ -45,6 +45,8 @@ The five texts that define the discipline, in order:
 
 ## 🤖 Coding Agents (harnesses in the wild)
 
+- [Orbi](https://orbi.build/) ([source](https://github.com/orbi-build/orbi)) — AGPL-3.0, self-hostable coding agent: labeled GitHub issues run in isolated worktrees, receive an independent review against acceptance criteria, and become merged PRs and tagged releases.
+
 - [openai/codex](https://github.com/openai/codex) — Rust terminal coding agent; its sandbox (Seatbelt/Landlock+seccomp) is a production reference.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) — sandboxed Bash (Seatbelt/bwrap), subagents with tool allowlists, git-worktree isolation, hooks.
 - [openai/codex-security](https://github.com/openai/codex-security) — 10.1k★ — security CLI for agents.
